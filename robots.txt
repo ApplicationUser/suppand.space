@@ -1,0 +1,9 @@
+User-agent: *
+
+Disallow: /
+
+User-agent: Mediapartners-Google
+
+Allow: /
+
+Host: https://k66348lg.beget.tech
